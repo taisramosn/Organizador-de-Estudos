@@ -3,7 +3,7 @@ Organizador de estudos, matérias, tarefas e avaliações.
 
 # 📚 StudyFlow — Organizador de Estudos
 
-**Autora:** Taís Ramos
+**Autora:** Taís Ramos Nascoski
 
 O **StudyFlow** é uma aplicação web responsiva desenvolvida para auxiliar estudantes na organização de sua rotina acadêmica.
 
